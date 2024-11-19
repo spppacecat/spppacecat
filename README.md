@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @spppacecat
-- 👀 I’m interested in minecraft moding
-- 🌱 I’m currently learning coding
+- 👀 I’m interested python coding
+- 🌱 I’m currently learning how to visualy display stuff on the screen in python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach meyou can rech me on my email sppacecat@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: started programing from minecraft EDU
 
 <!---
 spppacecat/spppacecat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
